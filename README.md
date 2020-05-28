@@ -1,5 +1,4 @@
-# pCellDynasts
-Analyzing proliferating Cell Dynamics in squamous epithelial tissues.
+# pCellDynasts :: Resolving proliferating Cell Dynamics in squamous epithelial tissues
 
 Computational methods used to unravel the paradigm of cell proliferation in squamous epithelial tissues. This set of methods allows to respond to how many proliferating cell types exist, their renewal dynamics, and how lineage fates are orchestrated to guarantee tissue homeostasis.
 
